@@ -69,7 +69,4 @@ $(document).ready(function(){
     
     init();
     
-        
-        
-    
 });
